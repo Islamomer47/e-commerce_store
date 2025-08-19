@@ -32,7 +32,7 @@ You’ve just entered my **interstellar portfolio**, where each milestone in my 
 Every bug was a black hole 🕳, every solved problem a supernova 💥,  
 and every project — a **new planet discovered in the galaxy of development**.  
 
-**Engage thrusters and enjoy this interactive cosmic tour! 🚀**
+**Engage thrusters and enjoy this interactive cosmic tour!**
 
 ---
 
@@ -71,7 +71,7 @@ It’s not just a portfolio — it’s a **cosmic narrative of my journey as a d
 ```
 
 ```
- 🌍 Home Planet .............. ✅ Completed
+ 🌍 Hero section .............. ✅ Completed
  🚀 My Journey Galaxy ......... 🚧 In Progress
  🛰 Projects Station .......... ⏳ Planned
  🌌 Contact Nebula ............ ⏳ Planned
@@ -82,8 +82,8 @@ It’s not just a portfolio — it’s a **cosmic narrative of my journey as a d
 ## 🗺️ Mission Timeline (Cosmic Map)  
 
 ```
- 🌍 Home ────► 🚀 My Journey ────► 🛰 Projects ────► 🌌 Contact
-  [Done]        [Building...]       [Next Up]         [Incoming...]
+ 🌍 Hero Section ────► 🚀 My Journey ────► 🛰 Projects ────► 🌌 Contact
+           [Done]        [Building...]       [Next Up]         [Incoming...]
 ```
 
 ---
@@ -104,7 +104,7 @@ It’s not just a portfolio — it’s a **cosmic narrative of my journey as a d
 ## 📝 Closing Note  
 
 ```bash
-> echo "This portfolio is still fueling up... Enjoy the ride through my cosmic adventure! 🚀"
+> echo "This portfolio is still fueling up... Enjoy the ride through my cosmic adventure!"
 ```
 
 ---
