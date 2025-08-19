@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ Introduction  
+##  Introduction  
 
 Welcome, space traveler! 🛰️  
 You’ve just docked into my **cosmic portfolio** — where my growth as a developer is mapped as an **interstellar expedition**.  
